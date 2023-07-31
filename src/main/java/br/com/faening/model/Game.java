@@ -1,4 +1,4 @@
-package br.com.faening.entities;
+package br.com.faening.model;
 
 import java.util.Objects;
 
